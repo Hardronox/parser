@@ -32,7 +32,9 @@ CREATE TABLE `site_info` (
   `total_visits` varchar(250) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+--asdfasdfasdf
 --
+
 -- Indexes for dumped tables
 --
 
